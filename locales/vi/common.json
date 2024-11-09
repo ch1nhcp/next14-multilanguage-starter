@@ -1,0 +1,15 @@
+{
+    "navigation": {
+      "Home": "Trang chủ",
+      "About": "Giới thiệu"
+    },
+    "home": {
+      "Home title": "Tiêu đề trang chủ",
+      "Home description": "Mô tả trang chủ"
+    },
+    "about": {
+      "About title": "Tiêu đề giới thiệu",
+      "About description": "Mô tả giới thiệu"
+    }
+  }
+  
